@@ -1,2 +1,2 @@
-# FunnySnap
-A photo-sharing web platform
+# Cluster Computing
+Using Torque PBS and an External Scheduler
